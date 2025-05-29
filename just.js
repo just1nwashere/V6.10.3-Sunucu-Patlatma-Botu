@@ -14,12 +14,6 @@ const client = new AoiClient({
         tables: ["main"],
         securityKey: "a-32-characters-long-string-here"
     },
-    Variables: {
-        küfür: "kapalı",
-        link: "kapalı",
-        hedefüye: "Daha Belirlenmedi!",
-        abonerol: "1368370968644292618"
-    }
 });
 
 // Aoi.js VOİCE
