@@ -1,3 +1,3 @@
-# V6.10.3-Sunucu-Patlatma-Botu
+# ⚡ Bota 9 Farklı Hata Bırakıldı
 
 - **Yakında!**
