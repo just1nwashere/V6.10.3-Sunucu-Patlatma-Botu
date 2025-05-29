@@ -1,6 +1,7 @@
 # Sistem'e BİLEREK 4 Farklı Hata Bırakıldı
 **4 Hatayıda Çözüp Sistem'i Başlatabilirsiniz**
-**Lütfen, "Hataları Söylermisin" "Hatanın kaynağı Ne?" Gibi Sorularla Gelmeyiniz, Hatalar Gerçekten Bilgisi Olupta Çözebilecek kişiler kullansın diye var.
+
+**Lütfen, "Hataları Söylermisin" "Hatanın kaynağı Ne?" Gibi Sorularla Gelmeyiniz, Hatalar Gerçekten Bilgisi Olupta Çözebilecek kişiler kullansın diye var.**
 #
 #
 
