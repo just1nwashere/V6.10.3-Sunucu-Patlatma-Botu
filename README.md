@@ -8,6 +8,7 @@
 # SİSTEM'İN AMACI NE?
 **Sunucu ID İle Ayarlanan Sunucuyu Vurmak.**
 **Butonlardaki Sunucu ID Gir Kısmına Sunucunuzun IDsini Girmelisiniz.**
+**BOTUN OLDUĞU Bİ SUNUCUNUN IDSİNİ DENEYİN, AKSİ TAKDİRDE BOT HEDEFTEKİ SUNUCUDA YOK UYARISI ALIRSINIZ**
 
 # İLETİŞİM
 **discord: just1nwashere.**
